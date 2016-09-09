@@ -1,0 +1,5 @@
+framework module CHTTPParser {
+    umbrella "/Users/jonathanguthrie/Documents/Perfect-Collection/Perfect-UnifiedDemo/Perfect-UnifiedBackend/Packages/PerfectHTTPServer-0.12.0/Sources/CHTTPParser/include"
+    link framework "CHTTPParser"
+    export *
+}

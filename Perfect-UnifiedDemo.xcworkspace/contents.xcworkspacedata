@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Perfect-UnifiedBackend/Perfect-UnifiedBackend.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Core/Perfect iOS/PerfectLibiOS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CCDC-MovieList-TV/CCDC-MovieList-TV.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jonathanguthrie/Documents/Perfect-Collection/Perfect-UnifiedDemo/CCDC-MovieListiOS/CCDC-MovieList-iOS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CCDC-MovieList-Watch/CCDC-MovieList-Watch.xcodeproj">
+   </FileRef>
+</Workspace>
